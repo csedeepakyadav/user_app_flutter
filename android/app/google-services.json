@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278567676046",
+    "project_id": "badidukkan-d9665",
+    "storage_bucket": "badidukkan-d9665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278567676046:android:8b9786458298e3646a01df",
+        "android_client_info": {
+          "package_name": "com.supercoder.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278567676046-2tbhrvirn6j55u35p0c20q2hgvsogrce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNunyppHZZ8xMf2_GS74ztfVntZWxThKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278567676046-2tbhrvirn6j55u35p0c20q2hgvsogrce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
